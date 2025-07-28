@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Unapologetically",
+    "date": "2025-07-28",
+    "speaker": "Company Executive",
+    "format": "Web Page",
+    "url": "https://www.yahoo.com/lifestyle/tagged/unapologetically/",
+    "source": "Yahoo Finance",
+    "description": "Earnings event from Yahoo Finance for AAPL"
+  },
+  {
+    "title": "Earnings",
+    "date": "2025-07-28",
+    "speaker": "Company Executive",
+    "format": "Web Page",
+    "url": "https://finance.yahoo.com/topic/earnings/",
+    "source": "Yahoo Finance",
+    "description": "Earnings event from Yahoo Finance for AAPL"
+  },
+  {
+    "title": "Earnings Calendar",
+    "date": "2025-07-28",
+    "speaker": "Company Executive",
+    "format": "Web Page",
+    "url": "https://finance.yahoo.com/calendar/earnings/",
+    "source": "Yahoo Finance",
+    "description": "Earnings event from Yahoo Finance for AAPL"
+  },
+  {
+    "title": "Earnings events",
+    "date": "2025-07-28",
+    "speaker": "Company Executive",
+    "format": "Web Page",
+    "url": "https://finance.yahoo.com/calendar/earnings?day=2025-07-28",
+    "source": "Yahoo Finance",
+    "description": "Earnings event from Yahoo Finance for AAPL"
+  }
+]

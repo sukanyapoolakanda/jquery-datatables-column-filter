@@ -1,0 +1,34 @@
+Earnings Presentations and Corporate Materials for AAPL
+================================================================================
+
+Source: Yahoo Finance
+----------------------------------------
+1. Title: Unapologetically
+   Date: 2025-07-28
+   Speaker(s): Company Executive
+   Format: Web Page
+   Direct Source URL: https://www.yahoo.com/lifestyle/tagged/unapologetically/
+   Description: Earnings event from Yahoo Finance for AAPL
+
+2. Title: Earnings
+   Date: 2025-07-28
+   Speaker(s): Company Executive
+   Format: Web Page
+   Direct Source URL: https://finance.yahoo.com/topic/earnings/
+   Description: Earnings event from Yahoo Finance for AAPL
+
+3. Title: Earnings Calendar
+   Date: 2025-07-28
+   Speaker(s): Company Executive
+   Format: Web Page
+   Direct Source URL: https://finance.yahoo.com/calendar/earnings/
+   Description: Earnings event from Yahoo Finance for AAPL
+
+4. Title: Earnings events
+   Date: 2025-07-28
+   Speaker(s): Company Executive
+   Format: Web Page
+   Direct Source URL: https://finance.yahoo.com/calendar/earnings?day=2025-07-28
+   Description: Earnings event from Yahoo Finance for AAPL
+
+
